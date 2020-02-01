@@ -1,0 +1,23 @@
+.navbar-logos {
+    float:left;
+    width:10vw;
+    padding:15px;
+    padding-right:0px;
+    padding-left:0px;
+}
+
+#navbar-accounts {
+    float:right;
+    margin:20px;
+    padding:20px;
+}
+
+.navbar-accounts {
+    display:inline;
+    margin:15px;
+    font-family:arial;
+    font-weight:bold;
+    padding:20px;
+    padding-left:0;
+    padding-right:0;
+}
