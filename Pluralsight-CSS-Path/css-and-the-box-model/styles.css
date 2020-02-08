@@ -1,7 +1,34 @@
-ul {
+* {
+    padding:0px;
+    margin:0px;
+}
+
+body {
     background-color:#cccccc;
 }
 
-ul li:nth-child(3) {
-    background-color:#cccc99;
+
+.menu {
+    list-style:none;
+    text-align: center;
+}
+
+.menu li:hover {
+    background-color: #cc9999;
+}
+
+
+.menu li {
+    display: inline-block;
+    background-color: #cccc99;
+    margin: 5px;
+    text-align: center;
+    padding: 3px 0 0 10px;
+    border-bottom: 3px solid black;
+    width:150px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: black;
 }
