@@ -18,8 +18,12 @@
     <p>
         I just discovered the FileVersionInfo class from System.Diagnostics:
     </p>
-    <p>fileVersionInfo versionInfo; nersionInfo = File VersionInfo.GetVersionInfo
-        (@"e:\win2003\system32\svchost.exe"); MessageBox.Show(versionInfo.ToString());
+    <p class="code">
+        <pre>
+        fileVersionInfo versionInfo; 
+        versionInfo = File VersionInfo.GetVersionInfo(@"e:\win2003\system32\svchost.exe"); 
+        MessageBox.Show(versionInfo.ToString());
+        </pre>
     </p>
     <p>
         To use the class then, all you need to do is:
@@ -39,7 +43,7 @@
     </ul>
 </div>
 </section>
-    <p>
+    <p class="copyright">
         (c) 2005 Copyright notice
     </p>
 </body>

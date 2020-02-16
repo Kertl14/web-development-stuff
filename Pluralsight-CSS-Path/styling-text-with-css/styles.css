@@ -5,8 +5,27 @@ body {
 
 h1 {
     font-family:'Times New Roman', serif;
+    font-size: 1.2em;
 }
 
 .content {
     background: #eeeecc;
+    padding: 7px;
+}
+
+.code {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+ol {
+    font-style: italic;
+    font-size: 0.9em
+}
+
+.copyright {
+    font-size: 0.8em;
+    font-weight: bold;
+    
 }
