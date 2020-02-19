@@ -19,8 +19,20 @@ em {
 
 .blueBox {
     background: #627da0;
+    position: absolute;
+    top: 50px;
+    left: 50px;
 }
 
 .greenBox {
     background: #5b8054;
+}
+
+.container {
+    background: rgba(0,0,0,.4);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 1000px;
+
 }
