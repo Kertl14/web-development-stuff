@@ -194,7 +194,7 @@ h2 {
 .lang2 {
     position: absolute;
     top: -180px;
-    left: 150px;
+    left: 195px;
 }
 
 .lang2 .numArticles {
@@ -211,7 +211,7 @@ h2 {
 .lang4 {
     position: absolute;
     top: -115px;
-    left: 225px;
+    left: 270px;
 }
 
 .lang5 {
@@ -223,29 +223,29 @@ h2 {
 .lang6 {
     position: absolute;
     top: -50px;
-    left: 235px;
+    left: 280px;
 }
 
 .lang7 {
     position: absolute;
     top: 15px;
-    left: 225px;
+    left: -225px;
 }
 
 .lang8 {
     position: absolute;
     top: 15px;
-    left: -225px;
+    left: 270px;
 }
 
 .lang9 {
     position: absolute;
     top: 80px;
-    left: 150px;
+    left: -150px;
 }
 
 .lang10 {
     position: absolute;
     top: 80px;
-    left: -150px;
+    left: 195px;
 }
