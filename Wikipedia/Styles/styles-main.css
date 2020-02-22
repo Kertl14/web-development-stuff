@@ -197,6 +197,11 @@ h2 {
     left: 150px;
 }
 
+.lang2 .numArticles {
+    position: relative;
+    top: -22px;
+}
+
 .lang3 {
     position: absolute;
     top: -115px;
