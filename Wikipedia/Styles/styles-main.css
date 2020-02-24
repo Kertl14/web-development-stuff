@@ -293,9 +293,9 @@ h2 {
 
 .mainLinks li {
     height: 50px;
-    width: 22vw;
+    width: 250px;
     line-height: 21px;
-    margin-bottom: 35px;
+    margin-bottom: 50px;
 }
 
 .mainLinks li * {
@@ -304,9 +304,14 @@ h2 {
     line-height: normal;
 }
 
-.column1, .column2, .column3{
+.mainLinks .column1, .mainLinks .column2, .mainLinks .column3{
     float: right;
 }
 
+.linkTextBox {
+    width: 190px;
+    height: inherit;
+    
+}
 
 /* Links end */
